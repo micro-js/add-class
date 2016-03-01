@@ -1,0 +1,19 @@
+{
+  "name": "@f/add-class",
+  "description": "Add a class to an element",
+  "repository": "git://github.com/micro-js/add-class.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/has-class": "^0.1.1"
+  },
+  "devDependencies": {
+    "hihat": "^2.6.4",
+    "tap-dev-tool": "^1.3.0",
+    "tape": "^4.4.0"
+  }
+}
