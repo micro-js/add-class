@@ -2,7 +2,7 @@
   "name": "@f/add-class",
   "description": "Add a class to an element",
   "repository": "git://github.com/micro-js/add-class.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
